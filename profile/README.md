@@ -18,7 +18,8 @@ Good news, you don’t have to pay the **MyJri Host price** anymore! 🎉 Due to
 
 You still have full control over your stations, but with even better perks and no monthly fees. Thank you for sticking with us, and we’re excited to keep the music going!
 
-If you’re a self-hosting user, you’ll need to update your credentials. You can find the steps to do that in this [guide](https://github.com/theradioheads/READ_ME_SELF_HOSTERS).
+<!---If you’re a self-hosting user, you’ll need to update your credentials. You can find the steps to do that in this [guide](https://github.com/theradioheads/READ_ME_SELF_HOSTERS).-->
+If you’re a self-hosting user, you’ll need to update your credentials. We are working on a guide on how to do this, but if you know what to do, you'll have to do it!
 
 ### For MyJri Radio +, Pro, and Pro+ Users:  
 We’ve issued a refund to all accounts that were paying for the service. We’re changing up the billing setup, and now that we’re our own thing, it should be **cheaper** for you! 🎉 
