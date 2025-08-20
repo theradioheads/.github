@@ -39,3 +39,7 @@ We are **no longer** affiliated with **MyJri** or **Jri Services**, copyrighted 
 Got questions or wanna chat? Drop us a line at [theradioheads@jri.rf.gd](mailto:theradioheads@jri.rf.gd).
 
 Feel free to message us using the username **theradioheads** (at JriMail), but no promises on how quickly we’ll check it. 😬
+
+---
+
+That logo is temporary, but it gets the point across.
